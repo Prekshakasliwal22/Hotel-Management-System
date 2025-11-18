@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e6c9866-0fe3-4740-8dff-01ab03ea614f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vRMhkqxzPNwW4Znp0fGE2MSnr7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddRoom.executor": "Run",
+    "Application.CustomerInfo.executor": "Run",
+    "Application.Department.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Login2.executor": "Run",
+    "Application.ManagerInfo.executor": "Run",
+    "Application.NewCustomer.executor": "Run",
+    "Application.Reception.executor": "Run",
+    "Application.Room.executor": "Run",
+    "Application.SearchRoom.executor": "Run",
+    "Application.Splash.executor": "Run",
+    "Application.admin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Downloads/ResultSet2xml.jar",
+    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/HotelManagement/HotelManagementSystem/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Splash">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.Employee" />
+      <module name="HotelManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hotel.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.Login" />
+      <module name="HotelManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hotel.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.Login2" />
+      <module name="HotelManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hotel.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.ManagerInfo" />
+      <module name="HotelManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hotel.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Splash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.Splash" />
+      <module name="HotelManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hotel.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Splash" />
+        <item itemvalue="Application.ManagerInfo" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Login2" />
+        <item itemvalue="Application.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6c9866-0fe3-4740-8dff-01ab03ea614f" name="Changes" comment="" />
+      <created>1744103560309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744103560309</updated>
+    </task>
+    <servers />
+  </component>
+</project>
